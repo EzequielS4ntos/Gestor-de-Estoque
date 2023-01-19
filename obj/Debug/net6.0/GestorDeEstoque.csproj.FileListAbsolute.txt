@@ -1,0 +1,30 @@
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.exe
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.deps.json
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.runtimeconfig.json
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.pdb
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.AssemblyInfo.cs
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\refint\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.pdb
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.genruntimeconfig.cache
+C:\Users\Ezequiel\Documents\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\ref\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.exe
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.deps.json
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.runtimeconfig.json
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\bin\Debug\net6.0\GestorDeEstoque.pdb
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.csproj.AssemblyReference.cache
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.AssemblyInfo.cs
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\refint\GestorDeEstoque.dll
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.pdb
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\GestorDeEstoque.genruntimeconfig.cache
+C:\Users\Ezequiel\Documents\Projetos C#\Gestor de Estoque\GestorDeEstoque\obj\Debug\net6.0\ref\GestorDeEstoque.dll
